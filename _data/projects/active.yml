@@ -1,35 +1,26 @@
 -
-  name: Cliff Effects (with Project Hope)
-  url: https://github.com/codeforboston/project-hope
+  name: Hospital Notifications
+  url: https://github.com/CodeForBaltimore
   news: >
-   **User testing was a success! Now we need to:**
-    * Discuss and implement changes needed from user feedback and create a better user experience
-    * Write unit, regression, and integration tests
-    * Strengthen our existing code and make it more maintainable
-    * Examine legislative documentation with people experienced with reading policy to check the validity of our benefit program calculations
+    * Dev/ Tech Lead: Jeremy Neal
+    * Design Lead: Joseph C
 -
-  name: My City Voice App
-  url: https://github.com/codeforboston/voiceapp311
+  name: Data Sculptures
+  url: https://github.com/CodeForBaltimore
   news: >
-    Technologies: Python, AWS
-
-    * Updating data locations for trash day and snow parking
-    * Researching automated testing
-    * Developing new Alexa features
-      * Street sweeping days
-      * City of Boston status page
+    * Project Manager: Derek Fields
 -
-  name: Interactive Film Documentary
+  name: Idea hub
+  url: https://github.com/CodeForBaltimore
   news: >
-    Code and UI/UX for the invisible women of Delhi
-    React Native -- need support building around the YouTube API. 
-    media: <iframe height="520px" width="1600" src="https://www.youtube.com/embed/SWXhe6ycKrY" frameborder="10" data-autoplay allowfullscreen></iframe>
+    * Project Manager: Derek Fields
 -
-  name: MuckRock
-  url: https://www.muckrock.com/
+  name: CfB Website
+  url: https://github.com/CodeForBaltimore
   news: >
-    MuckRock is a non-profit, collaborative news site that brings together journalists,
-    researchers, activists, and regular citizens to request, analyze, and share government
-    documents, making politics more transparent and democracies more informed.
-
-    Looking for folks interested in triaging todos or talking charts.
+    * Project Manager: Bryan Connor
+-
+  name: Sincronicity
+  url: https://github.com/CodeForBaltimore
+  news: >
+    * Project Manager: Karina Mandell

@@ -34,7 +34,7 @@ a.btn-default {
 a.btn-primary {
   @extend %btn;
   background: $brand-color;
-  color: $white-color;
+  color: $white-color !important;
   &:hover,
   &:focus {
     background: darken($brand-color, 10%);
