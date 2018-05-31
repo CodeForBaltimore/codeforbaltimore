@@ -1,5 +1,5 @@
 <ul class="team-grid">
   {% for member in site.data.team %}
-  <li><img src="{{ '/img/team/{{member.image}}' | prepend: site.baseurl }}" alt="{{member.name}}">{{member.role}}: {{member.name}}</li>
+  <li><img src="{{ '/img/team/' | prepend: site.baseurl }}{{member.image}}" alt="{{member.name}}">{{member.role}}: {{member.name}}</li>
   {% endfor %}
 </ul>
