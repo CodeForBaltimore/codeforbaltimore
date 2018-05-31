@@ -1,8 +1,9 @@
 ---
 title: Projects
-permalink: "/projects-balt/"
+permalink: "/projects/"
 layout: page
 type: inNavBar
+
 ---
 
 {:.t-section-headline}
