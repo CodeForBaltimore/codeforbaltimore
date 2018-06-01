@@ -1,10 +1,10 @@
 .card {
   margin-bottom: 1rem;
-  box-shadow: 0 0 6px 1px rgba(0,0,0,0.2);
+  //box-shadow: 0 0 6px 1px rgba(0,0,0,0.2);
 }
 
 .card--map {
-  background: $white-color;
+  //background: $white-color;
   margin: 0 auto;
   width: 80%;
   max-width: 50rem;
@@ -33,7 +33,7 @@
 }
 
 .card--no-map {
-	background: $white-color;
+	//background: $white-color;
 	margin: 0 auto;
 	width: 80%;
 	max-width: 50rem;
@@ -51,6 +51,8 @@
 			width: 100%;
 		}
 	}
+
+
 }
 
 .hero {
@@ -78,6 +80,43 @@
     }
   }
 }
+
+.call-out {
+	position: relative;
+	background: white;
+	z-index: 1;
+}
+.call-out::after {
+	content: '';
+	position: absolute;
+	top: -10px;
+	left: -10px;
+	border-color: transparent;
+	border-style: solid;
+	border-width: 20px;
+	border-left-color: $blue-color;
+	border-top-color: $blue-color;
+	z-index: -1;
+}
+
+.call-out::before {
+	content: '';
+	position: absolute;
+	bottom: -10px;
+	right: -10px;
+	border-color: white;
+	border-style: solid;
+	border-width: 20px;
+	border-right-color: $blue-color;
+	border-bottom-color: $blue-color;
+	z-index: -1;
+}
+.call-out-inner {
+	background: $brand-color;
+	padding: 10px;
+	color:white;
+}
+
 
 
 .panel {
