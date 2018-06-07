@@ -3,7 +3,7 @@ title: Projects
 permalink: "/projects/"
 layout: page
 type: inNavBar
-
+order: 30
 ---
 
 {:.t-section-headline}

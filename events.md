@@ -3,6 +3,7 @@ title: Events
 permalink: "/events/"
 layout: page
 type: inNavBar
+order: 20
 ---
 # Events
 
