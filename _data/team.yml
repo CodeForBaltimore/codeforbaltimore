@@ -1,0 +1,24 @@
+- name: Kelsey Krach
+  image: default-headshot.jpg
+  email: code4baltimore@gmail.com
+  role: Brigade Co-Captain
+
+- name: Mike Fried
+  image: default-headshot.jpg
+  email: code4baltimore@gmail.com
+  role: Brigade Co-Captain
+
+- name: Byran Connor
+  image: default-headshot.jpg
+  email: code4baltimore@gmail.com
+  role: Delivery Lead
+
+- name: Sean Astro
+  image: default-headshot.jpg
+  email: code4baltimore@gmail.com
+  role: Tech Lead
+
+- name: Angelina Millare
+  image: default-headshot.jpg
+  email: code4baltimore@gmail.com`
+  role: Community Manager

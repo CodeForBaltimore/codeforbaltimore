@@ -1,0 +1,14 @@
+.corner_btm {
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	width:400px;
+	height: 400px;
+	//z-index: -100;
+}
+
+.corner-bg-btm {
+	background-image: url(#corner_btm);
+	background-position: right bottom;
+	color: #fff;
+}

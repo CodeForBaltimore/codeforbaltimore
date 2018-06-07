@@ -1,0 +1,28 @@
+---
+title: Code For Baltimore
+timezone: UTC
+markdown: kramdown
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+email: code4baltimore@gmail.com
+description: 'Part of the Code for America Brigade network, we are a volunteer group
+  of developers, designers, data geeks, and citizen activists who use creative technology
+  to solve civic and social problems.'
+baseurl: '/codeforbaltimore.org'
+url: http://codeforbaltimore.org
+hackpad_url: http://codeforbaltimore.org
+twitter_url: https://twitter.com/@codeforbmore
+github_url: https://github.com/CodeForBaltimore
+meetup_url: https://www.meetup.com/Code-for-Baltimore/
+blog_url: http://codeforbaltimore.org
+events_url: http://codeforbaltimore.org
+slack_url: https://communityinviter.com/apps/
+reveal_path: /reveal.js/
+reveal_theme_path: /reveal.js/css/theme/
+reveal_theme: sky.css
+ga_id: INSERT_GA_ID
