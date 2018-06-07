@@ -3,6 +3,7 @@ title: Team
 permalink: "/team/"
 layout: page
 type: inNavBar
+order: 40
 ---
 
 # Core Team

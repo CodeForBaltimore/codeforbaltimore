@@ -3,6 +3,7 @@ title: About Us
 permalink: "/about-us/"
 layout: page
 type: inNavBar
+order: 10
 ---
 
 ## ABOUT US: 

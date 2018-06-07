@@ -3,6 +3,8 @@ title: Donate
 permalink: "/donate/"
 layout: page
 type: inNavBar
+order: 50
+nav_highlight: True
 ---
 
 Love what we do? Please consider [donating](https://secure.codeforamerica.org/page/contribute/donate-to-a-brigade-today?source_codes=Brigade-page&brigade=Code%20for%20Baltimore) to our community so that we can continue growing. 
