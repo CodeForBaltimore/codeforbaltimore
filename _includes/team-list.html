@@ -1,6 +1,6 @@
 <ul>
   <li>Whole team: <a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
   {% for member in site.data.team %}
-  <li>{{member.name}}: <a href="mailto:{{member.email}}">{{member.email}}</a></li>
+  <li>{{member.name}} - {{member.role}}<a href="mailto:{{member.email}}">{{member.email}}</a></li>
   {% endfor %}
 </ul>
