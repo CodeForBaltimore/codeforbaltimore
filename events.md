@@ -14,6 +14,6 @@ order: 20
 *	Location: {{ event.location }}
 *	[RSVP on Meetup]({{event.meetup_url }} )
 	
-{{ event.description | markdownify}}
+{{ event.description | markdownify }}
 
 {% endfor %}
