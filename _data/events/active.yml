@@ -1,13 +1,20 @@
-- name: Hack Night
-  date: Wednesday, June 6, 2018
-  time: 7:00 PM to 9:00 PM
-  location: TBD
-  meetup_url: https://www.meetup.com/Code-for-Baltimore/events/251233022/
+- name: Community night
+  date: Wednesday, July 18, 2018
+  time: 6:45 PM to 9:00 PM
+  location: Spark Baltimore, 8 Market PL suite 300 · Baltimore, MD
+  meetup_url: https://www.meetup.com/Code-for-Baltimore/events/252671388/
   description: >
-    Join us for a fun Hack Night to work on the projects with your team.
-
-    Haven't previously joined us? That's ok! Teams are always growing and in need of people who want to dedicate some of their time to improving Baltimore through tech projects.
-
-    Some of our current work includes hospital/health department emergency weather notifications, kinetic data sculptures, and the Idea Hub.
-
-    We also love new ideas! Feel free to share anything you're working on or would like to explore.
+    Join us for our monthly community night-- we'll enjoy pizza (thanks to Fearless) and catch up about our projects!
+    
+    Know someone who would be interested in helping Baltimore through tech, but they aren't involved? Invite them along!
+    
+    Have you had a project idea that will help your neighborhood or the city? Come prepared to share with us.
+    
+    Active projects include:
+    * CfB Website
+    * Hospital Notifications
+    * Data Sculptures
+    * Idea Hub
+    * Synchronicity
+    
+    
