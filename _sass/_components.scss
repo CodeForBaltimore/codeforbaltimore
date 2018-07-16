@@ -190,19 +190,27 @@
   margin: 0 auto;
   text-align: center;
   li {
-    width: 10%;
+    width: 200px;
     display: inline-block;
     vertical-align: top;
-    text-align: left;
+    text-align: center;
     line-height: 1.2;
-    @media (max-width: 700px) {
-      width: 20%;
-    }
-    @media (max-width: 500px) {
-      width: 30%;
-    }
+	  margin: 10px;
+
   }
   img {
     padding-bottom: 0.25em;
+	  padding-top: 1em;
   }
+
+	&__name {
+		font-size: 1.2rem;
+		padding-bottom: 0.25em;
+		font-weight: bold;
+	}
+	&__role {
+		font-size: 0.938rem;
+		color: $purple-color;
+	}
+
 }
