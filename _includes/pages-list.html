@@ -2,10 +2,7 @@
     <ul>
 	    {% assign pagelist = site.pages | sort: 'order'  %}
         {% for page in pagelist %}
-		    {% if page.title == "Events" and page.type == "inNavBar" %}
-		      <a class="page-link" href="{{site.meetup_url}}">{{ page.title }}</a>
-
-	      {% elsif page.title and page.type == 'inNavBar' %}
+	        {% if page.title and page.type == 'inNavBar' %}
             <li>
 	            {% if page.nav_highlight %}
 	            <a class="btn-primary btn--small" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
