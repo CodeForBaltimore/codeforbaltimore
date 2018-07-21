@@ -76,6 +76,7 @@ $.ajax({
 				//var gmapLink = gmapStart+gmapAddress+gmapCity+gmapState+gmapLat+gmapLon;  // Complete URL
 				var gmapLink = gmapStart+gmapAddress+gmapCity+gmapState;  // Complete URL
 			} else {
+				var eventLocation = ""
 				var eventAddress = 'TBD'   // Address
 				var gmapLink = eventURL    // URL
 			}
