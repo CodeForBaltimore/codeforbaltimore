@@ -1,0 +1,20 @@
+{
+    "name": "Code For Baltimore Website",
+    "description": "Website for Baltimore's Code for America Brigade",
+    "license": "MIT",
+    "status": "Production",
+    "homepage": "https://www.codeforbaltimore.org/",
+    "repository": "https://github.com/CodeForBaltimore/codeforbaltimore.github.io",
+    "type": "Static website",
+    "thumbnail": "http://www.codeforbaltimore.org/img/cfb-thumb.png",
+    "geography": [
+        "Baltimore", "MD"
+    ],
+    "contact": {
+        "name": "Bryan Connor",
+        "email": "bryan@codeforbaltimore.org"
+    },
+    "partners": [],
+		"tags":["website", "jekyll"],
+    "id": "https://raw.githubusercontent.com/DCgov/civic.json/master/schemas/schema-v1.json"
+}
