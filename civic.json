@@ -6,7 +6,7 @@
     "homepage": "https://www.codeforbaltimore.org/",
     "repository": "https://github.com/CodeForBaltimore/codeforbaltimore.github.io",
     "type": "Static website",
-    "thumbnail": "http://www.codeforbaltimore.org/img/cfb-thumb.png",
+    "thumbnail": "https://www.codeforbaltimore.org/img/cfb-thumb.png",
     "geography": [
         "Baltimore", "MD"
     ],
