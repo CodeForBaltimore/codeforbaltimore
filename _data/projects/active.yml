@@ -1,6 +1,6 @@
 -
   name: Hospital Notifications
-  url: https://github.com/CodeForBaltimore
+  url: https://github.com/CodeForBaltimore/hospital-notify
   news: >
     * Dev/ Tech Lead: Jeremy Neal
     * Design Lead: Joseph C
@@ -11,12 +11,12 @@
     * Project Manager: Derek Fields
 -
   name: Idea hub
-  url: https://github.com/CodeForBaltimore
+  url: https://github.com/CodeForBaltimore/civicideahubV2
   news: >
     * Project Manager: Sean Astro
 -
   name: CfB Website
-  url: https://github.com/CodeForBaltimore
+  url: https://github.com/CodeForBaltimore/codeforbaltimore.github.io
   news: >
     * Project Manager: Bryan Connor
 -
