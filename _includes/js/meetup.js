@@ -33,10 +33,17 @@ $.ajax({
 		if (xhr.data[0] == undefined) { // If there is no upcoming event posted on Meetup...
 			console.log('undefined next event');
 
-			document.getElementById("meetupDetails").innerHTML = 'TBD (check back soon)';                            // Meeting date & place
+			document.getElementById("meetupName").innerHTML = 'No upcoming events';                            // Meeting date & place
 			document.getElementById("meetupRSVP").style.display = 'none';                                            // RSVP info
 			document.getElementById("meetupCTA").innerHTML = 'Join Our Meetup';                                      // Call to Action text
 			document.getElementById("meetupCTA").href = 'https://www.meetup.com/Code-for-Baltimore/';  // Call to Action link
+			
+			document.getElementById("meetupDate").parentElement.style.display = "none"
+			document.getElementById("meetupTime").parentElement.style.display = "none"
+			document.getElementById("meetupLocation").parentElement.style.display = "none"
+
+			// Description:
+			document.getElementById("meetupDesc").innerHTML = 'Check back soon or join our meetup group to get notified of our next event.'
 
 		} else
 			{
@@ -145,7 +152,7 @@ $.ajax({
 			document.getElementById("meetupName").innerHTML = eventName;
 
 
-				// Date & Time
+			// Date & Time
 			document.getElementById("meetupDate").innerHTML = prettyDate;        // Date & Time
 			document.getElementById("meetupTime").innerHTML = dateTime;        // Date & Time
 
