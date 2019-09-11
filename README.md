@@ -9,19 +9,12 @@ For more information about this project and how we're building it please see the
 * [Tech Spec](/docs/Tech_Spec.md) 
 * [Best Practices](/docs/Best_Practices.md) 
 * [Style Guide](/style_guide.html)
+
 ## Setup
-What does someone need to do to get started with your project? Do they need to:
-* install software?
-* run some commands?
-* do something else?
-
-In this section of the `README` you should include any information a new contributor or user of the project needs to know to get running locally and setup.
-
-## Using this product
-How would someone use this product? Give a few examples here.
+If you want to build the website locally, enter `git clone https://github.com/CodeForBaltimore/codeforbaltimore.github.io.git` in your terminal to pull the repo to your local machine. Once it is installed locally you can and make any changes in your text editor of choice and [open a pull request.](https://github.com/CodeForBaltimore/codeforbaltimore.github.io/pulls) 
 
 ## Testing
-What does someone need to do to test their work? Have you included a specific testing framework or guideline (hint: you should)? Any information about testing should be added here.
+We have not yet implemented any testing frameworks on this website.
 
 ## Sources and Links
 Based on https://github.com/codefordc/codefordc.github.com/pull/217
