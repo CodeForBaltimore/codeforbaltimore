@@ -45,9 +45,10 @@ $grid-columns: 12;
 .t-center-title {
     text-align: center;
     margin-top: -40px;
-    
+
     @include media-query($on-palm) {
       text-align: center;
+      margin-top: 1px;
     }
 }
 
@@ -110,6 +111,7 @@ $grid-columns: 12;
 
   @include media-query($on-palm) {
     background-image: url(https://www.lai.org/sites/default/files/h-lai-baltimore1.jpg);
+    height: 120px;
   }
 }
 
