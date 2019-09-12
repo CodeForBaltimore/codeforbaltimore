@@ -95,7 +95,9 @@ $grid-columns: 12;
 .bg-grey {
   background-color: $grey-color;
 }
-
+.bg-img {
+  background-image: url(https://www.lai.org/sites/default/files/h-lai-baltimore1.jpg);
+}
 
 // Aspect ratio helpers
 // Note: these must only contain a single child.
