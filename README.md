@@ -11,7 +11,7 @@ For more information about this project and how we're building it please see the
 * [Style Guide](/style_guide.html)
 
 ## Setup
-If you want to build the website locally, fork the `https://github.com/CodeForBaltimore/codeforbaltimore.github.io` repo to your own account and then `git clone` your repo to your local machine. Once it is installed locally you can and make any changes in your text editor of choice and [open a pull request.](https://github.com/CodeForBaltimore/codeforbaltimore.github.io/pulls) onto the master branch of our repo.
+If you want to build the website locally, fork the `https://github.com/CodeForBaltimore/codeforbaltimore.github.io` repo to your own account and then `git clone` your repo to your local machine. Once it is installed locally you can make any changes in your text editor of choice, `git push` up to Github and [open a pull request.](https://github.com/CodeForBaltimore/codeforbaltimore.github.io/pulls) onto the master branch of our repo.
 
 ## Testing
 We have not yet implemented any testing frameworks on this website.
