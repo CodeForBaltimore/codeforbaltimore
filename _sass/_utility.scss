@@ -48,7 +48,7 @@ $grid-columns: 12;
 
     @include media-query($on-palm) {
       text-align: center;
-      margin-top: 1px;
+      margin-top: 10px;
     }
 }
 
@@ -112,6 +112,8 @@ $grid-columns: 12;
   @include media-query($on-palm) {
     background-image: url(https://www.lai.org/sites/default/files/h-lai-baltimore1.jpg);
     height: 120px;
+    background-size: cover;
+    background-position: bottom;
   }
 }
 
