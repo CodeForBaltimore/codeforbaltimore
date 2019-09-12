@@ -42,6 +42,10 @@ $grid-columns: 12;
 .t-left {
     text-align: left;
 }
+.t-center-title {
+    text-align: center;
+    margin-top: -40px;
+}
 
 .t-indented {
   p {
@@ -97,6 +101,8 @@ $grid-columns: 12;
 }
 .bg-img {
   background-image: url(https://www.lai.org/sites/default/files/h-lai-baltimore1.jpg);
+  background-position-y: -1050px; 
+  height: 320px;
 }
 
 // Aspect ratio helpers
