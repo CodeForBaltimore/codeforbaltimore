@@ -2,7 +2,7 @@
 name: Feature
 about: Request website feature
 title: ''
-labels: ''
+labels: 'enhancement'
 assignees: ''
 
 ---
