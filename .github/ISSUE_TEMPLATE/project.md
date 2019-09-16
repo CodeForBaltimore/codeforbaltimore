@@ -2,16 +2,14 @@
 name: Project
 about: Create request to add project to website
 title: ''
-labels: ''
-assignees: ''
+labels: 'project'
+assignees: '@jbixon13'
 
 ---
 
 ### Project
 
-
-### Acceptance Criteria
-- [ ] AC 1
-- [ ] AC 2
+Project Name: 
+Github Repo: 
 
 ### Notes
