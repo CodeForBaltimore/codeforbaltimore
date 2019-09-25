@@ -1,26 +1,21 @@
 -
-  name: Hospital Notifications
-  url: https://github.com/CodeForBaltimore/hospital-notify
+  name: Know Your Rights Baltimore
+  url: https://github.com/CodeForBaltimore/KnowYourRightsBaltimore
   news: >
-    * Dev/ Tech Lead: Jeremy Neal
-    * Design Lead: Joseph C
+    * Dev/ Tech Lead: Jason Anton
 -
-  name: Data Sculptures
-  url: https://github.com/CodeForBaltimore
+  name: Jury Instructions
+  url: https://github.com/CodeForBaltimore/JuryInstructions
   news: >
-    * Project Manager: Derek Fields
+    * Project Manager: Jason Anton
 -
-  name: Idea hub
-  url: https://github.com/CodeForBaltimore/civicideahubV2
+  name: Sync the City
+  url: https://github.com/syncthecity
   news: >
-    * Project Manager: Sean Astro
+    * Project Manager: Karina Mandell
+    * Dev/ Tech Lead: Jason Bixon
 -
   name: CfB Website
   url: https://github.com/CodeForBaltimore/codeforbaltimore.github.io
   news: >
-    * Project Manager: Bryan Connor
--
-  name: Sync The City
-  url: https://github.com/CodeForBaltimore/sync-the-city
-  news: >
-    * Project Manager: Karina Mandell
+    * Project Manager: Jason Bixon
