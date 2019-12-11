@@ -1,24 +1,19 @@
-- name: Kelsey Krach
-  image: kelsey-200.jpg
-  email: kelsey@codeforbaltimore.org
-  role: Brigade Co-Captain
-
 - name: Mike Fried
   image: mike-200.jpg
   email: mike@codeforbaltimore.org
-  role: Brigade Co-Captain
+  role: Brigade Captain
 
-- name: Bryan Connor
-  image: bryan-200.jpg
-  email: bryan@codeforbaltimore.org
+- name: Vincent Escobedo
+  image: default-headshot.jpg
+  email: hello@codeforbaltimore.org
   role: Delivery Lead
 
-- name: Sean Astro
-  image: sean-200.jpg
+- name: Jason Anton
+  image: default-headshot.jpg
   email: hello@codeforbaltimore.org
   role: Tech Lead
 
-- name: Angelina Millare
-  image: angelina-200.jpg
-  email: angelina@codeforbaltimore.org
+- name: Isabel Abaunza
+  image: default-headshot.jpg
+  email: hello@codeforbaltimore.org
   role: Community Manager
