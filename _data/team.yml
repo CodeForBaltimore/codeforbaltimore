@@ -1,7 +1,12 @@
 - name: Mike Fried
   image: mike-200.jpg
   email: mike@codeforbaltimore.org
-  role: Brigade Captain
+  role: Co-Brigade Captain
+
+- name: Isabel Abaunza
+  image: default-headshot.jpg
+  email: hello@codeforbaltimore.org
+  role: Co-Brigade Captain
 
 - name: Vincent Escobedo
   image: default-headshot.jpg
@@ -12,8 +17,3 @@
   image: default-headshot.jpg
   email: hello@codeforbaltimore.org
   role: Tech Lead
-
-- name: Isabel Abaunza
-  image: default-headshot.jpg
-  email: hello@codeforbaltimore.org
-  role: Community Manager
