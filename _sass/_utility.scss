@@ -105,13 +105,13 @@ $grid-columns: 12;
   background-color: $grey-color;
 }
 .bg-img {
-  background-image: url(https://www.lai.org/sites/default/files/h-lai-baltimore1.jpg);
+  background-image: url(/img/baltimore.jpg);
   background-size: cover;
   background-position: center;
   height: 320px;
 
   @include media-query($on-palm) {
-    background-image: url(https://www.lai.org/sites/default/files/h-lai-baltimore1.jpg);
+    background-image: url(/img/baltimore.jpg);
     background-size: cover;
     background-position: bottom;
     height: 120px;
