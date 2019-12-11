@@ -21,7 +21,7 @@ github_url: https://github.com/CodeForBaltimore
 meetup_url: https://www.meetup.com/Code-for-Baltimore/
 blog_url: http://codeforbaltimore.org
 events_url: http://codeforbaltimore.org
-slack_url: https://join.slack.com/t/codeforbaltimoreteam/shared_invite/enQtMzYxNzgzNDIyOTQ4LTBhOTdhY2JlZmJhZGQ2ZDZhM2E0MWRhYTYwM2EwZDk1MDU4MTFhNTM0YjVlNTE2YjYyYmY2Y2Q0MzE3MjQxMzI
+slack_url: https://join.slack.com/t/codeforbaltimoreteam/shared_invite/enQtMzYxNzgzNDIyOTQ4LWZkZjU5YzlmODVjYmEyYTliNmFkMGViYWQ1Y2IyMDZjY2FmMjBhMzk1NmY1ZjAyMjBjOTk4ZDcyZjQ0ZjhjZTU
 reveal_path: /reveal.js/
 reveal_theme_path: /reveal.js/css/theme/
 reveal_theme: sky.css
